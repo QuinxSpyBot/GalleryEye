@@ -9,6 +9,9 @@
 
 </div>
 
+> [!WARNING]
+> This Bot Is Specifically Created For Educational Purposes. Please Refrain From Misuse.
+
 English:
 > This software is designed for educational purposes only! Gallery Eye is a tool for monitoring saved photos on Android devices. Once Gallery Eye is installed on the victim's device, it will send all saved photos to your Telegram bot.
 
